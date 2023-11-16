@@ -101,7 +101,7 @@ int main() {
     int i, j;
 
    
-    printf("Ingrese los elementos de la matriz 3x3:\n");
+    printf("Ingrese los numeros de la matriz 3x3:\n");
     for (i = 0; i < N; i++) {
         for (j = 0; j < N; j++) {
             scanf("%d", &matriz[i][j]);
